@@ -138,6 +138,14 @@ body{
  
 }
 **/
+
+#cimg{
+  width: 200px;
+  height: 300px;
+  justify-content: center;
+  margin: auto auto auto auto;
+
+}
 #s3{
   display:flex;
   margin:0;
@@ -159,6 +167,7 @@ body{
 
 #c2 .card{
   position: relative;
+  margin-bottom: 1rem;
 }
 
 #c2 .card .face{
